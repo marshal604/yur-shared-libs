@@ -24,7 +24,9 @@
       ],
       "yur-ui/*": [
         "dist/yur-ui/*"
-      ]
+      ],
+      "@yur-ui-base/*": ["projects/yur-ui/src/lib/base/*"],
+      "@yur-ui-utils/*": ["projects/yur-ui/src/lib/utils/*"]
     }
   }
 }
