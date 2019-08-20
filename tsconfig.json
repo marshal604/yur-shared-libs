@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "yur-ui": [
+        "dist/yur-ui"
+      ],
+      "yur-ui/*": [
+        "dist/yur-ui/*"
+      ]
+    }
   }
 }
