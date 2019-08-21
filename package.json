@@ -48,5 +48,21 @@
     "tsickle": "^0.35.0",
     "tslint": "~5.15.0",
     "typescript": "~3.4.3"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marshal604/yur-shared-libs.git"
+  },
+  "keywords": [
+    "angular",
+    "ui"
+  ],
+  "author": "Hubert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marshal604/yur-shared-libs/issues"
+  },
+  "homepage": "https://github.com/marshal604/yur-shared-libs#readme"
 }

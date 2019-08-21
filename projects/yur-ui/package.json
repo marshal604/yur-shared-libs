@@ -4,5 +4,24 @@
   "peerDependencies": {
     "@angular/common": "^8.0.3",
     "@angular/core": "^8.0.3"
-  }
+  },
+  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.",
+  "main": "src/public-api.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marshal604/yur-shared-libs.git"
+  },
+  "keywords": [
+    "angular",
+    "ui"
+  ],
+  "author": "Hubert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marshal604/yur-shared-libs/issues"
+  },
+  "homepage": "https://github.com/marshal604/yur-shared-libs#readme"
 }
